@@ -12,7 +12,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
+        <header className="E90 Project">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             E90 is an interesting course! Thanks!

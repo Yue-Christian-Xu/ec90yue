@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './happy.vg';
 import './App.css';
 
 import Amplify from 'aws-amplify';
@@ -15,7 +15,7 @@ class App extends React.Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            E90 is an interesting course!
+            E90 is an interesting course! Thanks!
           </p>
         </header>
       </div>

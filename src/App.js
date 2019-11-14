@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './happy.svg';
+import logo from './happy2.svg';
 import './App.css';
 
 import Amplify from 'aws-amplify';
